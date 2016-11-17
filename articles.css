@@ -34,23 +34,23 @@
 }
 
 .article4 {
-	background-color: #14AB49;
+	background-color: #96A317;
 	font-family: 'Oswald', sans-serif;
-	font-size: .45em;
-	color: #0E110F;
-	line-height: 1.2em;
-	padding: 3.22em;
-	border: 12px solid #076325;
-	border-radius: 40px;
+	font-size: .95em;
+	color: #30340B;
+	line-height: 2.33em;
+	padding: 1.02em;
+	border: 22px solid #A5A78D;
+	border-radius: 9px;
 }
 
 .article5 {
-	background-color: #14AB49;
+	background-color: #FF2563;
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: .45em;
-	color: #0E110F;
-	line-height: 1.2em;
-	padding: 3.22em;
-	border: 12px solid #076325;
-	border-radius: 40px;
+	font-size: 1.29em;
+	color: #77666B;
+	line-height: 2.99em;
+	padding: .12em;
+	border: 7px solid #FFB9CE;
+	border-radius: 30px;
 }
