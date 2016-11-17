@@ -1,0 +1,12 @@
+/* article 1 */
+
+.article1 {
+	background-color: #0CC0C2;
+	font-family: 'Roboto', sans-serif;
+	font-size: .75em;
+	color: #fff;
+	line-height: 3em;
+	padding: 2em;
+	border: 4px solid black;
+	border-radius: 10px;
+}
