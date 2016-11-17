@@ -21,3 +21,14 @@
 	border: 10px solid #615F68;
 	border-radius: 20px;
 }
+
+.article3 {
+	background-color: #14AB49;
+	font-family: 'Slabo 27px', serif;
+	font-size: .45em;
+	color: #0E110F;
+	line-height: 1.2em;
+	padding: 3.22em;
+	border: 12px solid #076325;
+	border-radius: 40px;
+}
