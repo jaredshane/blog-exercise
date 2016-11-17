@@ -32,3 +32,25 @@
 	border: 12px solid #076325;
 	border-radius: 40px;
 }
+
+.article4 {
+	background-color: #14AB49;
+	font-family: 'Oswald', sans-serif;
+	font-size: .45em;
+	color: #0E110F;
+	line-height: 1.2em;
+	padding: 3.22em;
+	border: 12px solid #076325;
+	border-radius: 40px;
+}
+
+.article5 {
+	background-color: #14AB49;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: .45em;
+	color: #0E110F;
+	line-height: 1.2em;
+	padding: 3.22em;
+	border: 12px solid #076325;
+	border-radius: 40px;
+}
